@@ -20,8 +20,7 @@ class ProductSeeder extends Seeder
                 'product_name' => "Classic Denim",
                 'price' => 499.57,
                 'img' => 'fab.png'
-            ]
-        );
+            ]);
 
     }
 }
